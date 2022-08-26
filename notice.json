@@ -1,0 +1,57 @@
+[
+    {
+        "noticeID": "000000000f701929000000000d019435",
+        "userName": "www",
+        "group": "general",
+        "text": "this medicine is a way to remove the pain",
+        "file": "files\/8fbafd86b3eee40e1ad1fb0a26113c37.jpg",
+        "date": "2020-07-21 Tuesday 07:43 pm",
+        "noticeTitle": "para cetamol",
+        "edit": 1,
+        "editID": "1\/000000000f701929000000000d019435"
+    },
+    {
+        "noticeID": "000000001b9db4020000000071a1193c",
+        "userName": "Roua",
+        "group": "Medicines",
+        "text": "we have a meeting for all doctors in sanday at 8:00 am",
+        "file": "files\/7ae29a49ee0668e1ca0b44a99a5d66df.jpg",
+        "date": "2020-07-21 Tuesday 07:44 pm",
+        "noticeTitle": "meeting",
+        "edit": 1,
+        "editID": "1\/000000001b9db4020000000071a1193c"
+    },
+    {
+        "noticeID": "000000001026b7950000000079416243",
+        "userName": "Roua",
+        "group": "general",
+        "text": "we have a meeting for all doctors in sanday at 7:00 am",
+        "file": "files\/\u0645\u0633\u0627\u0631.txt",
+        "date": "2020-07-23 Thursday 03:38 pm",
+        "noticeTitle": "txt",
+        "edit": 0,
+        "editID": "0\/000000001026b7950000000079416243"
+    },
+    {
+        "noticeID": "000000004fa408ba000000004799025e",
+        "userName": "Roua",
+        "group": "Health",
+        "text": "we have a meeting for all doctors in sanday at 7:00 am",
+        "file": "files\/\u0645\u0633\u0627\u0631.txt",
+        "date": "2020-07-23 Thursday 04:03 pm",
+        "noticeTitle": "meeting",
+        "edit": 0,
+        "editID": "0\/000000004fa408ba000000004799025e"
+    },
+    {
+        "noticeID": "0000000075bcb904000000001445f1dc",
+        "userName": "Roua",
+        "group": "Medicalcare",
+        "text": "exo the best",
+        "file": "files\/\u0645\u0633\u0627\u0631.txt",
+        "date": "2020-07-23 Thursday 04:03 pm",
+        "noticeTitle": "meeting",
+        "edit": 0,
+        "editID": "0\/0000000075bcb904000000001445f1dc"
+    }
+]

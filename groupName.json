@@ -1,0 +1,20 @@
+[
+    {
+        "groupID": "000000004372d2b00000000016c3c2ec",
+        "groupName": "Health",
+        "groupAdmin": "osama",
+        "privacy": "general"
+    },
+    {
+        "groupID": "000000004b1f472a000000000f5ae92c",
+        "groupName": "Medicines",
+        "groupAdmin": "Roua",
+        "privacy": "general"
+    },
+    {
+        "groupID": "000000001bb2f8d100000000046f5ce6",
+        "groupName": "Medicalcare",
+        "groupAdmin": "Roua",
+        "privacy": "private"
+    }
+]

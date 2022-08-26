@@ -1,0 +1,35 @@
+[
+    {
+        "noticeID": "0000000015ceef750000000014c33ec6",
+        "userName": "www",
+        "group": "Health",
+        "text": "we have a meeting for all doctors in sanday at 7:00 am",
+        "file": "files\/",
+        "date": "2020-07-21 Tuesday 05:36 pm",
+        "noticeTitle": "meeting",
+        "edit": 0,
+        "editID": "0\/0000000015ceef750000000014c33ec6"
+    },
+    {
+        "noticeID": "000000000f701929000000000d019435",
+        "userName": "www",
+        "group": "general",
+        "text": "we have a meeting for all doctors in sanday at 7:00 am",
+        "file": "files\/8fbafd86b3eee40e1ad1fb0a26113c37.jpg",
+        "date": "2020-07-21 Tuesday 05:55 pm",
+        "noticeTitle": "covid-19",
+        "edit": 0,
+        "editID": "0\/000000000f701929000000000d019435"
+    },
+    {
+        "noticeID": "000000001b9db4020000000071a1193c",
+        "userName": "Roua",
+        "group": "Medicines",
+        "text": "we have a meeting for all doctors in sanday at 7:00 am",
+        "file": "files\/7ae29a49ee0668e1ca0b44a99a5d66df.jpg",
+        "date": "2020-07-21 Tuesday 02:13 pm",
+        "noticeTitle": "meeting",
+        "edit": 0,
+        "editID": "0\/000000001b9db4020000000071a1193c"
+    }
+]

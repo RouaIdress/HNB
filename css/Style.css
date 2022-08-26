@@ -1,0 +1,262 @@
+/*navbar in all pages*/
+#hnav{  /*navbar color*/
+	border: 1px solid  #2F00D7;
+	background-color:  #2F00D7;
+	height: 65px;
+}
+#hnav a{  /*navbar word*/
+	color: white;
+	font-size: 15px;
+	font-family:  Comic Sans MS;
+}
+#hnav a:hover{
+	font-family:  Comic Sans MS;
+	font-weight: bold;
+}
+#hnav li:hover{
+	border: 4px solid  #7356DB;
+	 background-color:  #7356DB;
+}
+#hnav p{ /*title of navbar*/
+	color: white;
+	margin-top: 12px;
+	font-family:  Comic Sans MS;
+	margin-right: 5px;
+	font-size: 20px;
+	font-weight: bold;
+}
+html ,body{
+	height: 100%;
+}
+
+#myCarousel img{
+	margin-top: 0px;
+	height: 500px;
+	width: 100%;
+}
+.end
+{
+	margin-top: 50px;
+	font-family:  Comic Sans MS;
+	height: 60px;
+	padding: 20px 0;
+	background-color: #2F00D7;
+	color: #ffffff;
+	font-size: 20px;
+}
+.account button, .personalinfo button ,.details button{
+	background-color: white;
+	border: 1px solid #cc6600;
+	border-radius: 20px 20px;
+	width: 200px;
+}
+.box select{
+	border: 1px solid #cc6600;
+	border-radius: 20px 20px;
+	margin-bottom: 10px;
+}
+/*register login addnote*/
+.page{
+	background-color: #fffae6;
+}
+.npage{
+	background-color: #1F2B61;
+}
+/*mynote addnote categories*/
+/*.title
+{
+	font-family:  Comic Sans MS;
+	font-size: 30px;
+	color: black;
+}*/
+/*index page*/
+.welcome{
+	margin-top: 50px;
+	font-size: 40px;
+	font-weight: bold;
+}
+.description{
+	margin-top: 20px;
+	font-size: 20px;
+}
+.inimg{
+	border-radius: 50%;
+}
+/*Register page*/
+.register{
+	max-width:800px;
+	margin: auto;
+	border-style: outset;
+	background-color: white;
+	margin-top: 40px;
+	height: 590px;
+}
+.register img{
+	margin-top: 65px;
+	height: 455px;
+}
+.personalinfo{
+	margin-top: 55px;
+}
+.personalinfo div{
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+.personalinfo input{
+	font-size: 16px;
+	padding: 8px;
+	border: 1px solid #cc6600;
+	border-radius: 20px 20px;
+}
+.icon{
+	max-width: 150px;
+	margin: auto;
+}
+.gmail{
+	margin-left: 60px;
+}
+/*login page*/
+.login{
+	max-width:600px;
+	margin: auto;
+	margin-top: 30px;
+	background-color: white;
+	border-style: outset;
+	height: 600px;
+}
+.login img{
+	margin-top: 40px;	
+	border:1px solid #cc6600;
+	border-radius: 50%;
+}
+.account{
+	margin-top: 30px;
+}
+.account div{
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+.account input{
+	font-size: 17px;
+	padding: 10px;
+	border: 1px solid #cc6600;
+	border-radius: 20px;
+}
+
+/*my notes page*/
+.note{
+	border:1px solid #ff8533;
+	text-align: center;
+	border-radius: 10px 10px;
+	background-color: #ffffb3;
+	font-family:Comic Sans MS;
+	color: black;
+	font-size: 20px;
+	margin-top: 20px;
+	padding: 10px;
+}
+/*add note page*/
+.addnote{
+	max-width:800px;
+	margin: auto;
+	margin-top: 70px;
+	border-style: outset;
+	background-color: white;
+	height: 500px;
+}
+.addnote img{
+	margin-top: 50px;
+	height: 400px;
+}
+.details{
+	margin-top: 100px;
+}
+.details div{
+	margin-top: 30px;
+	font-size: 20px;
+}
+.details input{
+	font-size: 16px;
+	padding: 8px;
+	border: 1px solid #cc6600;
+	border-radius: 20px 20px;
+}
+/*categories page*/
+.category{
+	width: 400px;
+	height: 300px;
+	margin: 10px;
+	margin-left: 30px;
+	background-color: #ffffb3;
+	border:1px solid #ffffb3;
+	border-radius: 20px 20px;
+}
+.category button{
+	margin-top: 20px;
+	width: 300px;
+	font-size: 20px;
+}
+.category p{
+	display: none;
+	margin-top: 20px;
+	font-size: 18px;
+	color: black;
+}
+.trash{
+	font-weight: bold;
+	margin-top: 40px;
+	font-size: 25px;
+}
+
+/*account user*/
+.groups{
+
+	color: #ff6666;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+.ads{
+	width: 400px;
+	height: 300px;
+	margin: 10px;
+	margin-left: 30px;
+	background-color: #ffffb3;
+	border:1px solid #ffffb3;
+	border-radius: 20px 20px;
+}
+.ads button{
+	margin-top: 20px;
+	width: 300px;
+	font-size: 20px;
+}
+.ads p{
+	display: none;
+	margin-top: 20px;
+	font-size: 18px;
+	color: black;
+}
+.notice{
+	color: #ff6666;
+	margin-left: 5px;
+	
+	
+}
+.adduser{
+	margin-left: 130px;
+	margin-bottom: 100px;
+}
+.personalin{
+	font-size: 16px;
+	padding: 8px;
+}
+.accountwhite{
+	background-color: white;
+	border-style: outset;
+
+}
+
+.accountblack{
+	background-color: #2F00D7;
+	border-style: #2F00D7;
+	
+}
